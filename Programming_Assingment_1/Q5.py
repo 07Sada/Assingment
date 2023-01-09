@@ -1,4 +1,4 @@
-# 5.	Write a Python program to generate a random number?
+# 5.	Write a Python program to generate a random number ?
 
 # importing random module
 import random

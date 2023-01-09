@@ -1,4 +1,4 @@
-# 3.	Write a Python program to find the area of a triangle?
+# 3.	Write a Python program to find the area of a triangle ?
 
 # The formula to calculate the area of triangle:
 # area = (base * height)/2

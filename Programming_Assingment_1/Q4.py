@@ -9,6 +9,7 @@ print(f"""Befor swap
         value of b: {b}\n""")
 
 # swapping the two variables
+
 a, b = b, a
 
 print("*"*50)

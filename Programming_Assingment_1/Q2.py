@@ -7,7 +7,7 @@ b = float(input("Enter the second number: "))
 # creating function to add the numbers
 def addition(a, b):
     return a+b 
-
+    
 # creating division function 
 def division(a, b):
     return a/b 
